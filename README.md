@@ -29,6 +29,10 @@ Users should be able to:
 
 ![Screenshot](./screenshots/advice-app.png)
 
+Tablet screenshot
+
+![](./screenshots/chrome_screenshot_1672773918593.png)
+
 ### Links
 
 - Solution URL: [GitHub](https://github.com/IagoBomfim/Advice-generator-app)
